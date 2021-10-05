@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acad_Dynacoop", "Acad_Dynacoop.csproj", "{E027607D-4860-4CA1-B19E-29E352F23715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E027607D-4860-4CA1-B19E-29E352F23715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E027607D-4860-4CA1-B19E-29E352F23715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E027607D-4860-4CA1-B19E-29E352F23715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E027607D-4860-4CA1-B19E-29E352F23715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4982767-661A-4075-A678-88627670DE2E}
+	EndGlobalSection
+EndGlobal
